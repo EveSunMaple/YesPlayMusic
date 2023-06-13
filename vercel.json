@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://wangyiyun.saroprock.com/:match*"
+    }
+  ]
+}
